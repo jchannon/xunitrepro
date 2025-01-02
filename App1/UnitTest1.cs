@@ -1,6 +1,6 @@
 using SharedxUnit3;
 
-//[assembly: AssemblyFixture(typeof(OpenTelemetryMonitoredFixture))]
+[assembly: AssemblyFixture(typeof(OpenTelemetryMonitoredFixture))]
 
 namespace App1;
 
